@@ -7,3 +7,7 @@
 ### Ex 3: Import dữ liệu từ file tổng vào DB
 
 ### Ex 4: Đếm số lần xuất hiện của các từ trong slogan, sắp xếp theo thứ tự giảm dần
+
+### Ex 5: Thống kê số lượng quốc gia theo tứ tự tăng dần
+
+### Ex 6: Sắp xếp danh sách tổng theo lương
